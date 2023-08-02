@@ -1,0 +1,5 @@
+protobuf==3.20.0
+gradio==1.6.0
+numpy==1.22.3
+tensorflow==2.8.0
+
