@@ -14,7 +14,7 @@ Then, clone this repository:
 
 To use the program, simply run the app.py file for the gradio version:
 
-    python app.py
+        python app.py
 This will launch a Gradio interface in your default web browser, allowing you to draw characters in a sketchpad. Once you draw a character, click 'Submit' to have the model predict the character.
 
 ## Live Demo
